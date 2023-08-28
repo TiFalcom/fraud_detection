@@ -1,0 +1,21 @@
+descritivas:
+    - amt
+    - category
+    - state
+    - job
+    - day_of_week
+    - time_of_day
+    - client_age
+    - sum_last_30_minutes
+    - sum_last_1_hour
+    - sum_last_2_hour
+    - sum_last_8_hour
+    - sum_last_12_hour
+    - sum_last_24_hour
+    - sum_last_72_hour
+    
+target:
+    - is_fraud
+    
+chave:
+    - trans_num
